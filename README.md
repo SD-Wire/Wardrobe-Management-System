@@ -9,7 +9,7 @@ This is a **Wardrobe Management System** built using **Laravel 11** for the back
 - **CRUD Operations** (Create, Read, Update, Delete)
 - **Item Categorization** (Tops, Bottoms, Shoes, etc.)
 - **Search and Filter Functionality**
-- **Responsive UI** using Vue 3
+- **Responsive UI** using Livewire 3
 
 ## Prerequisites
 Make sure you have the following installed on your machine:
